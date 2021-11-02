@@ -1,0 +1,26 @@
+body{
+    background-color: cadetblue;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+h1 {
+    background-color: chocolate;
+    color: aquamarine;
+    padding: 30px;
+    border-radius: 20px;
+}
+h2{
+    background-color: coral;
+    color: cornflowerblue;
+    padding: 10px;
+    border-color: darkblue;
+    border-radius: 20px;
+}
+
+.ParrafoEspecial{
+    font-family:monospace;
+    font-size: 25px;
+}
+
+.ul{
+    color:darkblue
+}
