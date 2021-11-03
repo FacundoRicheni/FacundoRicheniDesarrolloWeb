@@ -1,0 +1,12 @@
+body {
+    background-color: azure;
+}
+
+.flex-container {
+    display: flex;
+    flex-wrap: wrap;
+    background-color: blue;
+    padding: 10px;
+    border: 50px ;
+    height: 400px;
+}
